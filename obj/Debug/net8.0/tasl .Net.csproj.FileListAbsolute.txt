@@ -1,0 +1,36 @@
+D:\tasl .Net\bin\Debug\net8.0\appsettings.Development.json
+D:\tasl .Net\bin\Debug\net8.0\appsettings.json
+D:\tasl .Net\bin\Debug\net8.0\tasl .Net.exe
+D:\tasl .Net\bin\Debug\net8.0\tasl .Net.deps.json
+D:\tasl .Net\bin\Debug\net8.0\tasl .Net.runtimeconfig.json
+D:\tasl .Net\bin\Debug\net8.0\tasl .Net.dll
+D:\tasl .Net\bin\Debug\net8.0\tasl .Net.pdb
+D:\tasl .Net\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+D:\tasl .Net\bin\Debug\net8.0\Asp.Versioning.Http.dll
+D:\tasl .Net\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+D:\tasl .Net\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\tasl .Net\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\tasl .Net\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\tasl .Net\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\tasl .Net\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\tasl .Net\obj\Debug\net8.0\tasl .Net.csproj.AssemblyReference.cache
+D:\tasl .Net\obj\Debug\net8.0\tasl .Net.GeneratedMSBuildEditorConfig.editorconfig
+D:\tasl .Net\obj\Debug\net8.0\tasl .Net.AssemblyInfoInputs.cache
+D:\tasl .Net\obj\Debug\net8.0\tasl .Net.AssemblyInfo.cs
+D:\tasl .Net\obj\Debug\net8.0\tasl .Net.csproj.CoreCompileInputs.cache
+D:\tasl .Net\obj\Debug\net8.0\tasl .Net.MvcApplicationPartsAssemblyInfo.cs
+D:\tasl .Net\obj\Debug\net8.0\tasl .Net.MvcApplicationPartsAssemblyInfo.cache
+D:\tasl .Net\obj\Debug\net8.0\staticwebassets.build.json
+D:\tasl .Net\obj\Debug\net8.0\staticwebassets.development.json
+D:\tasl .Net\obj\Debug\net8.0\staticwebassets\msbuild.tasl .Net.Microsoft.AspNetCore.StaticWebAssets.props
+D:\tasl .Net\obj\Debug\net8.0\staticwebassets\msbuild.build.tasl .Net.props
+D:\tasl .Net\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.tasl .Net.props
+D:\tasl .Net\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.tasl .Net.props
+D:\tasl .Net\obj\Debug\net8.0\staticwebassets.pack.json
+D:\tasl .Net\obj\Debug\net8.0\scopedcss\bundle\tasl .Net.styles.css
+D:\tasl .Net\obj\Debug\net8.0\tasl .Net.csproj.Up2Date
+D:\tasl .Net\obj\Debug\net8.0\tasl .Net.dll
+D:\tasl .Net\obj\Debug\net8.0\refint\tasl .Net.dll
+D:\tasl .Net\obj\Debug\net8.0\tasl .Net.pdb
+D:\tasl .Net\obj\Debug\net8.0\tasl .Net.genruntimeconfig.cache
+D:\tasl .Net\obj\Debug\net8.0\ref\tasl .Net.dll
